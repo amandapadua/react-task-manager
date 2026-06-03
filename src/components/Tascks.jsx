@@ -1,4 +1,4 @@
-import { CheckCheckIcon, ChevronRight, Delete, DeleteIcon, TrashIcon } from "lucide-react"
+import { CheckIcon, ChevronRight, Delete, DeleteIcon, TrashIcon } from "lucide-react"
 import { useNavigate } from "react-router-dom";
 
 function Tascks(props) {
